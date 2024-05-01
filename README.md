@@ -10,12 +10,6 @@ Code available [here](https://github.com/omarathon/compression-geospatial).
 
 **Report:** mres_project.pdf
 
-### Sensor Design Project
-
-Implementation and calibration of temperature and pulse sensors (3k word limit).
-
-**Report:**  sensor_design_project.pdf
-
 ### 4F13 Probabalistic Machine Learning
 
 Two courseworks (Probabalistic Ranking, Latent Dirichlet Allocation Model) for which I received an indicative grade of A- (5 page limit for each). 
@@ -33,3 +27,9 @@ Group project applying applying bayesian optimisation with a gaussian process su
 Algorithm development on a resource-constrained board for activity probability measurement using an IMU (2 page limit).
 
 **Report:** emb_sys.pdf
+
+### Sensor Design Project
+
+Implementation and calibration of temperature and pulse sensors (3k word limit).
+
+**Report:**  sensor_design_project.pdf
