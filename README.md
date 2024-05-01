@@ -2,24 +2,32 @@
 
 Omar Tanner's MRes Work at the University of Cambridge.
 
-### MRes Project Report
+### MRes Project
 
-mres_project.pdf
+Beating main-memory bandwidths for geospatial computation via cache-optimised in-memory data compression. Implemented in C/C++.
 
-### Sensor Design Project Report
+Main repo: https://github.com/omarathon/compression-geospatial
 
-sensor_design_project.pdf
+**Report:** mres_project.pdf
 
-Implementation and calibration of temperature and pulse sensors.
+### Sensor Design Project
 
-### Probabalistic Machine Learning (4F13) Reports
+Implementation and calibration of temperature and pulse sensors (3k word limit).
 
-prob_ml.pdf
+**Report:**  sensor_design_project.pdf
 
-### Machine Learning and the Physical World (L48) Project Report
+### 4F13 Probabalistic Machine Learning
 
-ml_physical.pdf
+Two courseworks (Probabalistic Ranking, Latent Dirichlet Allocation Model) for which I received an indicative grade of A- (5 page limit for each). 
 
-### Embedded Systems (4B25) Project Report
+**Report:** prob_ml.pdf
 
-emb_sys.pdf
+### L48 Machine Learning and the Physical World Project
+
+**Report:** ml_physical.pdf
+
+### 4B25 Embedded Systems Project
+
+Algorithm development on a resource-constrained board for activity probability measurement using an IMU (2 page limit).
+
+**Report:** emb_sys.pdf
