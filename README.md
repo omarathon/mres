@@ -24,6 +24,8 @@ Two courseworks (Probabalistic Ranking, Latent Dirichlet Allocation Model) for w
 
 ### L48 Machine Learning and the Physical World Project
 
+Group project applying applying bayesian optimisation with a gaussian process surrogate to automatically tune PPO (a reinforcement-learning algorithm).
+
 **Report:** ml_physical.pdf
 
 ### 4B25 Embedded Systems Project
