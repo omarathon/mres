@@ -6,7 +6,7 @@ Omar Tanner's MRes Work at the University of Cambridge.
 
 Beating main-memory bandwidths for geospatial computation via cache-optimised in-memory data compression (7k word limit).
 
-Code available [here]([url](https://github.com/omarathon/compression-geospatial)).
+Code available [here](https://github.com/omarathon/compression-geospatial).
 
 **Report:** mres_project.pdf
 
