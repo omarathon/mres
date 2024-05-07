@@ -6,9 +6,7 @@ Omar Tanner's MRes Work at the University of Cambridge.
 
 Beating main-memory bandwidths for geospatial computation via cache-optimised in-memory data compression. Implemented in C++ (7k word limit).
 
-Code available [here](https://github.com/omarathon/compression-geospatial).
-
-**Report:** mres_project.pdf
+**Report:** mres_project.pdf. Implementation: [here](https://github.com/omarathon/compression-geospatial).
 
 ### 4F13 Probabalistic Machine Learning
 
@@ -26,7 +24,7 @@ Group project applying applying bayesian optimisation with a gaussian process su
 
 Algorithm development in C on a resource-constrained board for activity probability measurement using an IMU (2 page limit).
 
-**Report:** emb_sys.pdf
+**Report:** emb_sys.pdf. Implementation: [here](https://github.com/omarathon/Warp-firmware/blob/cw4-code-impl/src/boot/ksdk1.1.0/devMMA8451Q.c).
 
 ### Sensor Design Project
 
