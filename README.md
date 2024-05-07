@@ -2,7 +2,7 @@
 
 Omar Tanner's MRes Work at the University of Cambridge.
 
-### MRes Project
+### MRes Project / Thesis
 
 Beating main-memory bandwidths for geospatial computation via cache-optimised in-memory data compression. Implemented in C++ (7k word limit).
 
